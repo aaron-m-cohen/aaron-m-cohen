@@ -1,10 +1,10 @@
 ### Aaron's Github
 
-I am an student in BloomTech's Backend Development program currently located in Seattle, WA. 
+I am a student in BloomTech's Backend Development program currently located in Seattle, WA. 
 
 I have worked at hedge funds, n digital construction, at a bookstore, and more. 
 
-In addition to working as a software engineer, I have received a Master of Arts in Creative Writing from Southern Miss, where I won multiple departmental awards for my writing.
+In addition to working as a software engineer, I have received a Master of Arts in Creative Writing from Southern Miss, where I won multiple departmental awards for my fiction.
 
 When I am not writing software, I'm usually reading a book, writing fiction or poetry, playing strategy games (board, card or video all work in my book), or watching one of Seattle's many sports teams. 
 
