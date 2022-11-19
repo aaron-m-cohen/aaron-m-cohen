@@ -2,7 +2,7 @@
 
 I am a student in BloomTech's Backend Development program currently located in Seattle, WA. 
 
-I have worked at hedge funds, n digital construction, at a bookstore, and more. 
+I have experience at a hedge fund, in digital construction, and in bookselling.
 
 In addition to working as a software engineer, I have received a Master of Arts in Creative Writing from Southern Miss, where I won multiple departmental awards for my fiction.
 
@@ -20,12 +20,12 @@ When I am not writing software, I'm usually reading a book, writing fiction or p
 * I have future plans to work on a web-based text editor designed to help writers with [Constrained Writing](https://en.wikipedia.org/wiki/Constrained_writing). 
 
 ## 💬 Ask me about
-* Why Math/CS and creative writing aren't as different as you'd think
-* Experimental languages or literature (and why they serve a similar purpose in the culture)
+* Why Math and Computer Science and creative writing aren't as different as you'd think
+* Experimental programming languages or literature (and why they serve a similar purpose in the culture)
 * Seattle Sports
 
 ## 📫 How to reach me: 
 * firstname + b94 at gmail dot com
-* Email me for my IRL address and send me a postcard! Nothing better than getting mail that isn't bills or junk.
+* Email me for my IRL address and send me a postcard! Nothing better than something other than junk in the mailbox.
 
 
